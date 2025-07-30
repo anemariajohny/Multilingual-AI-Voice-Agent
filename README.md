@@ -1,4 +1,4 @@
-# Hindi Multilingual Voice Agent 🎙️🇮🇳
+# Hindi  Voice Agent 🎙️🇮🇳
 
 ## 🧠 Project Title:
 **Development of a Multilingual AI Voice Agent for Automated, Context-Aware Lead Follow-Up Using NLP and Emotional Intelligence**
